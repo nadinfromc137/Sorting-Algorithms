@@ -5,3 +5,5 @@ In the directory where the runscript.py is, run the following command which will
 Change this 100 by any number you want.
 
 python runscript.py 100 data.txt
+
+Then uncomment the sorting algorithm you want in the main.
