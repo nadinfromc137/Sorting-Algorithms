@@ -9,3 +9,9 @@ Before running uncomment the sorting algorithm you want to use in the main.
 command to run:
 python runscript.py 100 data.txt
 
+The implemented algorithms are:
+
+1. Selection Sort
+2. Insertion Sort
+3. Merge Sort
+4. Quick Sort
